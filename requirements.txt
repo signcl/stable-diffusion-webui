@@ -3,7 +3,7 @@ blendmodes
 accelerate
 basicsr
 gfpgan
-gradio==3.31.0
+gradio==6.7.0
 numpy
 omegaconf
 opencv-contrib-python
@@ -14,7 +14,7 @@ pytorch_lightning==1.7.7
 realesrgan
 scikit-image>=0.19
 timm==0.4.12
-transformers==4.25.1
+transformers==4.53.0
 torch
 einops
 jsonmerge
